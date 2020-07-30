@@ -142,7 +142,7 @@ CREATE TABLE `rol` (
 -- Dumping data for table `rol`
 --
 
-INSERT INTO `rol` (`ID`, `TIpo`) VALUES
+INSERT INTO `rol` (`ID`, `Tipo`) VALUES
 (1, 'Admin'),
 (2, 'Secretaria'),
 (3, 'Doctor');
