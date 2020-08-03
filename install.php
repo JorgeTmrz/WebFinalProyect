@@ -263,7 +263,7 @@ $mensaje = implode("<br />",$mensaje);
                         <input required type="text" name="basededatos" class="form-control" value="tarea7" id="basededatos">
                     </div>
                     <button type="submit" name="submit" class="btn btn-success" style="font-size:large">Instalar</button>
-                </form>
+                </form> 
                 </div>
             </div> 
         </div>                       
